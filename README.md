@@ -1,4 +1,4 @@
-# SPAM ESEMES >_
+# SPAM SMS >_
 
 
 
@@ -11,8 +11,6 @@
 (●) python SpamSms.py
 
 Jan Di recode Ya !
-
 Hanya suport python no python2/python3 
-
-
+Yt : https://youtube.com/channel/UC_TtsAzujNHgM2TZzCMopkQ
 
