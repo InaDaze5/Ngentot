@@ -1,4 +1,9 @@
-# (●) git clone https://github.com/RAMA-XD/Ngentot
+# SPAM ESEMES >_
+# Spam Vip
+# Ngentot Ahihuhahah.
+
+
+(●) git clone https://github.com/RAMA-XD/Ngentot
 
 (●) cd Ngentot
 
