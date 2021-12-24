@@ -1,12 +1,13 @@
 # SPAM ESEMES >_
-# Spam Vip
-# Ngentot Ahihuhahah.
 
 
+
+# CLONING DULU NGAP
 (●) git clone https://github.com/RAMA-XD/Ngentot
 
 (●) cd Ngentot
 
+# CARA JALANIN SC >_
 (●) python SpamSms.py
 
 Jan Di recode Ya !
