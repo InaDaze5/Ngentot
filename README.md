@@ -8,3 +8,5 @@ Jan Di recode Ya !
 
 Hanya suport python no python2/python3 
 
+
+
